@@ -3,7 +3,7 @@
 <ul>
 <li> Mint an NFT and list it on the platform. </li>
 <li> Users can buy the Listed NFT's. </li>
-<li> NFT Owners can delete their listed NFT. <li>
+<li> NFT Owners can delete their listed NFT. </li>
 <li> NFT Owners can update listed price for their NFT. </li>
 
 </ul>
